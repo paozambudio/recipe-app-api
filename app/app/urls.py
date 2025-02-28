@@ -21,4 +21,3 @@ urlpatterns = [
 ]
 
 one=1
-d=2
